@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jayarajraj
 - 👀 I’m interested in webdeveloping
 - 🌱 I’m currently learning ReactNativejs
-- 💞️ I’m looking to collaborate on webdeveloper
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on who interested in webdeveloping
+-
 
 <!---
 Jayarajraj/Jayarajraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
